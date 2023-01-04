@@ -1,6 +1,8 @@
-# react-state-1
-Estudo de React
+# <p align = "center"> <b> PROJETO REACT  </b>
 
-• Ao clicar na tela um ponto vermelho é criado no local do Click.
-• Botão Desfazer - Desfaz o último ponto criado.
-• Botão Refazer - Refaz o último ponto que foi desfeito.
+O objetivo é criar um sistema aonde é criado um ponto aonde o úsuario clicar, um botão para desfazer o último click feito, e um botão para refazer o último ponto que foi desfeito.
+  
+## 🛠 Ferramentas Utilizadas
+* Javascript
+* React
+* Css
